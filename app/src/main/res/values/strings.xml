@@ -2,4 +2,5 @@
     <string name="app_name">UniversityApp</string>
     <string name="label">Trial</string>
     <string name="title">Added via feature2 branch</string>
+    <string name="my_name">Vamsi</string>
 </resources>
